@@ -4,6 +4,8 @@ Emojis, a condensed form of language that can expresses emotions, have become an
 
 ## Datasets
 
+![image](https://user-images.githubusercontent.com/59308544/207938318-19745d66-b9b4-4800-9562-f8c7089afe07.png)
+
 The dataset for the model was constructed out of the Celebrity Profiling Corpus using Twitter API. It scraped tweets from only celebrities having a verified account on Twitter and at least a Wikipedia Page, ensuring that only quality tweets were scraped. Around 4.5 million tweets were scraped and preprocessed. Preprocessing involved:
 
 * Cleaning the tweet by removing mentions, hashtags, punctuations, hyperlinks and escape characters. 
